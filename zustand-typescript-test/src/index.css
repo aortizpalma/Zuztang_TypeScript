@@ -1,0 +1,23 @@
+body {
+  background: #202020;
+  color: white;
+  margin: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title {
+  color: chocolate;
+}
+button {
+  background-color: cyan;
+  font-size: 20px;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.warning {
+  color: red;
+}
+.warning-btn {
+  background-color: red;
+  color: white;
+}
