@@ -12,6 +12,8 @@ Built with:
 
 ## Setup and usage
 
+`npm install`
+
 `npm run dev`
 
 ## Screenshot
@@ -19,8 +21,11 @@ Built with:
 ## Sources
 
 - [Zustang documentation](https://docs.pmnd.rs/zustand/getting-started/introduction)
+- [JSON placeholder](https://docs.pmnd.rs/zustand/getting-started/introduction)
 
 ## Authors and acknowledgment
+
+- Practice based on [Fazt Code's YouTube channel](https://www.youtube.com/watch?v=pAHPHivDbuE) tutorial
 
 Alfonso Ortiz Palma Junco
 
